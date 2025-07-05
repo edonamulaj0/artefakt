@@ -103,7 +103,7 @@ nav {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, #22543d 0%, #718096 100%);
+  background: linear-gradient(135deg, rgba(34, 84, 61, 0.8) 0%, rgba(113, 128, 150, 0.8) 100%), url(/images/park.jpg)  center/cover no-repeat ;
   color: #f7fafc;
   padding: 4rem 2rem;
   text-align: center;
